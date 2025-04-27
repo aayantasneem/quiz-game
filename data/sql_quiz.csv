@@ -1,0 +1,6 @@
+Question,Option A,Option B,Option C,Option D,Correct Answer
+Which command is used to retrieve data from a database?,GET,SELECT,EXTRACT,FETCH,B
+What does SQL stand for?,Structured Question Language,Structured Query Language,Sequential Query Language,Standard Query Language,B
+Which SQL clause is used to filter results?,ORDER BY,WHERE,GROUP BY,HAVING,B
+What is the default port number for MySQL?,3306,1433,1521,5432,A
+Which SQL statement is used to update data in a database?,CHANGE,MODIFY,UPDATE,SET,C
