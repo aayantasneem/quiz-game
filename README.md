@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎯 Quiz Game | Python Command-Line Project
 
 An interactive and fun command-line **Quiz Game** developed using Core Python. This project helps strengthen Python basics, data structures, loops, and file handling skills.
@@ -115,3 +116,7 @@ Developed with ❤️ by [M. Aayan Tasneem](https://github.com/aayantasneem)
 
 This project is licensed under the **MIT License**.  
 See the [LICENSE](LICENSE) file for details.
+=======
+# quiz-game
+An interactive quiz game developed using Core Python, focused on logic building and data structure skills.
+>>>>>>> 7d08fd661002e3bbf407f3f3986457f002f9849d
