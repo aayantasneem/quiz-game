@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎯 Quiz Game | Python Command-Line Project
 
 An interactive and fun command-line **Quiz Game** developed using Core Python. This project helps strengthen Python basics, data structures, loops, and file handling skills.
